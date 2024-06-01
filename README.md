@@ -18,6 +18,6 @@
 
 # 8. xCrossing Algorithm, which assigns a predictive sore for how likely a cross is to connect in a game.
 
-# 9. 
+# 9. 18-Yard Box Entry Optimization, which simulates the optimal methods of entering into the opponent's 18-yard box.
 
-# 10. 
+# 10. Aggregate Pattern Play Detector, which uses machine learning to detect the common successful and threatening ball movement patterns of a team.
